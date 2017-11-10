@@ -1,0 +1,16 @@
+[
+{
+  "modid": "villagemod",
+  "name": "Villager Expansion",
+  "description": "A Simple Mod that aims to improve vanilla villages as a whole.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheExceptionist"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
